@@ -17,3 +17,6 @@ Fork [Normalizr on Github](https://github.com/paularmstrong/normalizr) and maint
 ### Can I contribute back to Normalizr?
 
 There are no current plans to resurrect this origin of Normalizr. If a forked version becomes sufficiently maintained and popular, please reach out about merging the fork and changing maintainers.
+
+
+refer example - https://medium.com/@jmsoliv95/normalizing-your-data-with-normalizr-d0e95a1b16ea
